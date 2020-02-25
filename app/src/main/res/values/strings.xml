@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">PruebaShake</string>
+    <string name="instructions">Shake me!!</string>
+</resources>
